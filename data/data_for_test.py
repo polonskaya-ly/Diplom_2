@@ -1,0 +1,10 @@
+class TestData:
+    email = 'polonskaya2222@yandex.ru'
+    password = '222222'
+    name = 'Любасик'
+    fake_password = '2222222'
+    fake_email = 'polonskaya-2222@yandex.ru'
+    email_2 = 'polonskaya44445@yandex.ru'
+    name_2 = 'Нина Иванова'
+    new_name = 'Lubasik'
+    new_email = 'liubapol@yandex.ru'

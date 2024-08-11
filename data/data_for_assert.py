@@ -1,0 +1,5 @@
+REGISTER_ERROR_USER = 'User already exists'
+REGISTER_ERROR_FIELDS = 'Email, password and name are required fields'
+LOGIN_ERROR = 'email or password are incorrect'
+UNAUTHORISED_ERROR = 'You should be authorised'
+INGREDIENTS_ERROR = 'Ingredient ids must be provided'
